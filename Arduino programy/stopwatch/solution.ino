@@ -1,4 +1,9 @@
 #include "funshield.h"
+/*
+Matěj Mezera
+Počítačové systémy 2021/2022
+Program that simulates a stopwatch
+*/
 unsigned long number = 0;
 int position = 0;
 constexpr int dot = 0x7F;
