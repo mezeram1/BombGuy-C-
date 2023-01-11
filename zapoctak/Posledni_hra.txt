@@ -1,0 +1,11 @@
+Bílý - poèítaè VELMI OBTÍŽNÝ
+Èerný - Pawn Game
+1) A2 A4 | G7 G5
+2) B2 B4 | B7 B5
+3) A4 B5 | D7 D5
+4) C2 C3 | F7 F5
+5) D2 D4 | C7 C5
+6) B5 C6 | A7 A5
+7) C6 C7 | A5 B4
+8) C7 C8 |  
+1-0
