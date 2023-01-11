@@ -1,5 +1,9 @@
 #include "funshield.h"
-
+/*
+Matěj Mezera
+Počítačové systémy 2021/2022
+Program that simulates a dice throw in game Dungeons and dragons
+*/
 constexpr int leds[] = { led1_pin, led2_pin, led3_pin, led4_pin };
 constexpr int ledCount = sizeof(leds) / sizeof(leds[0]);
 constexpr int buttons[] = { button1_pin, button2_pin, button3_pin };
