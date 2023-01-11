@@ -1,4 +1,10 @@
 #include "funshield.h"
+/*
+Matěj Mezera
+Počítačové systémy 2021/2022
+Program that counts in binary and shows the result by turning on the leds
+Adding and subracting is being done by pressing buttons
+*/
 int cislo = 0;
 int pozice = 0;
 int posun = 1;
