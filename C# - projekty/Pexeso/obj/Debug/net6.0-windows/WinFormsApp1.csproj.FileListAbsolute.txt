@@ -1,0 +1,34 @@
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mat99\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\mat99\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\mat99\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mat99\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mat99\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\mat99\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Karticka.resources
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.Karticka.resources
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mat99\Desktop\MFF UK\2. SEMESTR\Programování 2\DU\Pexeso\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
