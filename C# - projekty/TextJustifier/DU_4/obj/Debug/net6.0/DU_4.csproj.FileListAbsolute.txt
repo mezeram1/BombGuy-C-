@@ -1,0 +1,17 @@
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\bin\Debug\net6.0\DU_4.exe
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\bin\Debug\net6.0\DU_4.deps.json
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\bin\Debug\net6.0\DU_4.runtimeconfig.json
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\bin\Debug\net6.0\DU_4.dll
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\bin\Debug\net6.0\DU_4.pdb
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.csproj.AssemblyReference.cache
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.AssemblyInfoInputs.cache
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.AssemblyInfo.cs
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.csproj.CoreCompileInputs.cache
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.dll
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\refint\DU_4.dll
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.pdb
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.genruntimeconfig.cache
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\ref\DU_4.dll
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.Properties.Resources.resources
+C:\Users\mat99\Desktop\Programming in C#\HW\DU_4\DU_4\obj\Debug\net6.0\DU_4.csproj.GenerateResource.cache

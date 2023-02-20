@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DU_4": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\mat99\\Desktop\\Programming in C#\\HW\\a.txt\" \"C:\\Users\\mat99\\Desktop\\Programming in C#\\HW\\b.txt\" 17"
+    }
+  }
+}
